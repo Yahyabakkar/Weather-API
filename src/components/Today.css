@@ -1,0 +1,59 @@
+.weather-bot {
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    justify-content: center;
+    font-family: Raleway;
+    color: #1c256d;
+    align-items: center;
+  }
+  
+  .weather-mid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+  }
+  
+  .temp {
+    color: white;
+    font-family: Raleway;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .temperature {
+    font-weight: bold;
+    font-family: Raleway;
+    color: #1c256d;
+  }
+  
+  .humidity {
+    font-weight: bold;
+    font-family: Raleway;
+    color: #1c256d;
+  }
+  
+  .pressure {
+    font-weight: bold;
+    font-family: Raleway;
+    color: #1c256d;
+  }
+  
+  .temper {
+    font-family: Raleway;
+    color: #1c256d;
+  }
+  
+  .tempers {
+    font-family: Raleway;
+    color: #1c256d;
+  }
+  
+  .temperature {
+    font-weight: bold;
+    font-size: 25px;
+  
+  }
+  

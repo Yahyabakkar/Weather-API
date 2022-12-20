@@ -1,3 +1,40 @@
-div {
-    border: 25px solid black;
-}
+header {
+    background-color: rgba(117, 158, 218, 255);
+    height: 80px;
+    display: flex;
+    font-family: Raleway;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    align-items: center;
+  }
+  
+  
+  
+  .input_city {
+    border: none;
+    background-color: transparent;
+    width: 140px;
+    height: 32px;
+    font-family: Raleway;
+    padding-left: 15px;
+  }
+  
+  input:focus {
+    outline: none;
+    border-bottom: 1px solid rgba(132, 130, 130, 0.899);
+  }
+  
+  ::placeholder {
+    color: #ffffff;
+    opacity: 1;
+  }
+  
+  .btn {
+  
+    font-family: Raleway;
+    background-color: #5879c7;
+    border: none;
+    margin-left: 15px;
+    width: 120px;
+    height: 35px;
+  }
